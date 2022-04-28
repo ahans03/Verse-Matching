@@ -25,7 +25,7 @@ struct AnswerRow: View {
     }
 }
 
-struct LandmarkRow_Previews: PreviewProvider {
+struct AnswerRow_Previews: PreviewProvider {
     static var verses = VerseData().verses
     
     static var previews: some View {
